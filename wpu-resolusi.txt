@@ -1,5 +1,8 @@
 WPU RESOLUSI
-- konsisten untuk membuat coding senin-kamis
-- membuat game dev mulai kamis
+- Membuat Game Dev
+  >MainMenu
+  >Karakter
+  >Map
+  >Running
 - belajar gambar di blander tiap selasa
 - belajar javascript, assembly, java hari senin sampai rabu
