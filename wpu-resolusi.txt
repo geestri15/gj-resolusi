@@ -1,8 +1,13 @@
 WPU RESOLUSI
-- Membuat Game Dev
-  >MainMenu
-  >Karakter
-  >Map
-  >Running
-- belajar gambar di blander tiap selasa
-- belajar javascript, assembly, java hari senin sampai rabu
+* Membuat Game Dev
+  >Blander Karakter & Aset Map
+  >Rigging Karakter
+  >Unity Main Menu
+  >Alur level
+* Belajar Spring Framework
+
+- Drawing in blander, 
+- learn C++ in Unity, 
+- learn Java in Spring
+
+Setiap hari 2 jam (patokan jam random)
