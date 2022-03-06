@@ -1,2 +1,3 @@
-# wpu-resolusi
-Repository untuk menyimpan rencana WPU kedepannya
+# gj-resolusi
+Repositori untuk menyimpan rencana WPU kedepannya
+saya
