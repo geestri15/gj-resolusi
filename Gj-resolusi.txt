@@ -1,4 +1,4 @@
-WPU RESOLUSI
+GJ RESOLUSI
 * Membuat Game Dev
   >Blander Karakter & Aset Map
   >Rigging Karakter
